@@ -6,7 +6,8 @@
   font-display: swap;
 }
 li,
-td {
+td,
+p {
   font-family: 'PT Mono', sans-serif;
   color: #fff;
 }
